@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dadF+ACgoOUOaUMkurO59bwksgPkzjWFwLjz/EAlWF+UV8hU5VyimOC07Bl33H1sSgNiNjKcgOdmRGYm761JUw==",
+  "dgSpecHash": "p0rpkcBr5Vbf0FbZwmeCiPdJwAgLYI+rXkE7NoVQzIKJ88F9ZGS6c369meyVckNXmID1kn+gBH61xIVLKGOHEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.iOS\\Finance.iOS.csproj",
+  "projectFilePath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.iOS\\Finance.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mpfla\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
