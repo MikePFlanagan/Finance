@@ -3637,11 +3637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.Android\\Finance.Android.csproj",
+      "projectUniqueName": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.Android\\Finance.Android.csproj",
       "projectName": "Finance.Android",
-      "projectPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.Android\\Finance.Android.csproj",
+      "projectPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.Android\\Finance.Android.csproj",
       "packagesPath": "C:\\Users\\mpfla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.Android\\obj\\",
+      "outputPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3667,8 +3667,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance\\Finance.csproj": {
-              "projectPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance\\Finance.csproj"
+            "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj": {
+              "projectPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj"
             }
           }
         }

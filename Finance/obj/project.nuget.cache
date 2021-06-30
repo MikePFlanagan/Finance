@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PWc61kWxQeLHPCBGGxrU1g8LiW7ox1uPKRQ7wHgAsRf8TsbaSSCiuuJNW8OIOtvHK4ifR6PTFJF6K3P5xhmQ4Q==",
+  "dgSpecHash": "KqFEFrJyc9/I6/aRVaEVFoZ8usyywWhKpVkqSZha5nGqYVdMQ9jjsShT8X94FnevRCnuzkMoil9WYQr6mKmUew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance\\Finance.csproj",
+  "projectFilePath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mpfla\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\mpfla\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

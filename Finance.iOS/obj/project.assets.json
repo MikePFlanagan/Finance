@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.iOS\\Finance.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.iOS\\Finance.iOS.csproj",
       "projectName": "Finance.iOS",
-      "projectPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.iOS\\Finance.iOS.csproj",
+      "projectPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.iOS\\Finance.iOS.csproj",
       "packagesPath": "C:\\Users\\mpfla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance.iOS\\obj\\",
+      "outputPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -822,8 +822,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance\\Finance.csproj": {
-              "projectPath": "C:\\Users\\mpfla\\source\\repos\\MikePFlanagan\\Finance\\Finance\\Finance.csproj"
+            "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj": {
+              "projectPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj"
             }
           }
         }
