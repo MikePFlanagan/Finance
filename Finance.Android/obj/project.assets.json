@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v10.0": {
+    "MonoAndroid,Version=v11.0": {
       "Xamarin.Android.Arch.Core.Common/1.1.1.3": {
         "type": "package",
         "dependencies": {
@@ -3616,7 +3616,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v10.0": [
+    "MonoAndroid,Version=v11.0": [
       "Finance >= 1.0.0",
       "Xamarin.Android.Support.Design >= 28.0.0.3",
       "Xamarin.Android.Support.v4 >= 28.0.0.3",
@@ -3657,7 +3657,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid10.0"
+        "monoandroid11.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
@@ -3665,7 +3665,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid10.0": {
+        "monoandroid11.0": {
           "projectReferences": {
             "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj": {
               "projectPath": "C:\\Users\\mpfla\\source\\repos\\Finance\\Finance\\Finance.csproj"
@@ -3675,7 +3675,7 @@
       }
     },
     "frameworks": {
-      "monoandroid10.0": {
+      "monoandroid11.0": {
         "dependencies": {
           "Xamarin.Android.Support.Design": {
             "target": "Package",

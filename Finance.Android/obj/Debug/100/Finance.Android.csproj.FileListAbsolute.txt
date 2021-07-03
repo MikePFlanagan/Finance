@@ -627,3 +627,4 @@ C:\Users\mpfla\source\repos\Finance\Finance.Android\obj\Debug\100\stamp\_CopyInt
 C:\Users\mpfla\source\repos\Finance\Finance.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
 C:\Users\mpfla\source\repos\Finance\Finance.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\mpfla\source\repos\Finance\Finance.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\mpfla\source\repos\Finance\Finance.Android\bin\Debug\Finance.dll.mdb
