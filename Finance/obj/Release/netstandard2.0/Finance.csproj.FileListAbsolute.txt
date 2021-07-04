@@ -1,0 +1,13 @@
+C:\Users\mpfla\source\repos\Finance\Finance\bin\Release\netstandard2.0\Finance.deps.json
+C:\Users\mpfla\source\repos\Finance\Finance\bin\Release\netstandard2.0\Finance.dll
+C:\Users\mpfla\source\repos\Finance\Finance\bin\Release\netstandard2.0\Finance.pdb
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.csproj.AssemblyReference.cache
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\View\PostPage.xaml.g.cs
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.AssemblyInfoInputs.cache
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.AssemblyInfo.cs
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.dll
+C:\Users\mpfla\source\repos\Finance\Finance\obj\Release\netstandard2.0\Finance.pdb

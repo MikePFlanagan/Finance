@@ -47,6 +47,14 @@
       "frameworks": {
         "monoandroid10.0": {
           "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "Xamarin.Android.Support.Design": {
               "target": "Package",
               "version": "[28.0.0.3, )"
@@ -74,6 +82,10 @@
             "Xamarin.AndroidX.Palette": {
               "target": "Package",
               "version": "[1.0.0.7, )"
+            },
+            "Xamarin.AndroidX.RecyclerView": {
+              "target": "Package",
+              "version": "[1.2.1, )"
             },
             "Xamarin.Forms": {
               "target": "Package",
@@ -129,6 +141,14 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",

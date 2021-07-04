@@ -1,0 +1,124 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Finance/1.0.0": {
+        "dependencies": {
+          "Microsoft.AppCenter.Analytics": "4.3.0",
+          "Microsoft.AppCenter.Crashes": "4.3.0",
+          "NETStandard.Library": "2.0.3",
+          "Xamarin.Forms": "5.0.0.2012"
+        },
+        "runtime": {
+          "Finance.dll": {}
+        }
+      },
+      "Microsoft.AppCenter/4.3.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/4.3.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/4.3.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Xamarin.Forms/5.0.0.2012": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.671"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.671"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "5.0.0.671"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AppCenter/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J33wRTFM5h0bx+UyVRGiyluPlVzLqAzH/x5wW2TkgWutzJzxEgB2FNqOH4Gs99aTF0PyhUWHSzqWYhCFv+WzHQ==",
+      "path": "microsoft.appcenter/4.3.0",
+      "hashPath": "microsoft.appcenter.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o7U7mb7jdSkSeDXWT8AKDtJH+5ot8CqNOClQmVDCdTmagVrM/WXZXQXe3Y2tK8HtkWIj7qjfYBLSZKpteJAp4g==",
+      "path": "microsoft.appcenter.analytics/4.3.0",
+      "hashPath": "microsoft.appcenter.analytics.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hiRw2wZF+fI9qmtC4LTfU52hjE7q07HgE3owvlmRif9SXsIjX9v8vzY99aCQ+92Ej52XB1eswTOl9SnjAWzzKQ==",
+      "path": "microsoft.appcenter.crashes/4.3.0",
+      "hashPath": "microsoft.appcenter.crashes.4.3.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Xamarin.Forms/5.0.0.2012": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Rqc6xvWR/sf+Db5+qRCFmuYTWVp04QWRfwPto2/JHbShSy4Ed53Q2jpoFzsoloXkJA6saD236PlaWAhT6vI4gw==",
+      "path": "xamarin.forms/5.0.0.2012",
+      "hashPath": "xamarin.forms.5.0.0.2012.nupkg.sha512"
+    }
+  }
+}

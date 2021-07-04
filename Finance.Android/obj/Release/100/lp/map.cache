@@ -1,4 +1,10 @@
 FormsViewGroup.dll
+Microsoft.AppCenter.Analytics.Android.Bindings.dll
+Microsoft.AppCenter.Analytics.dll
+Microsoft.AppCenter.Android.Bindings.dll
+Microsoft.AppCenter.Crashes.Android.Bindings.dll
+Microsoft.AppCenter.Crashes.dll
+Microsoft.AppCenter.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
 Xamarin.AndroidX.Annotation.Experimental.dll
@@ -49,6 +55,7 @@ Xamarin.Forms.Platform.dll
 Xamarin.Google.Android.Material.dll
 Xamarin.Google.Guava.ListenableFuture.dll
 androidx.versionedparcelable.versionedparcelable.aar
+androidx.arch.core.core-runtime.aar
 androidx.lifecycle.lifecycle-runtime.aar
 androidx.core.core.aar
 androidx.customview.customview.aar
@@ -79,7 +86,6 @@ androidx.slidingpanelayout.slidingpanelayout.aar
 androidx.print.print.aar
 androidx.media.media.aar
 androidx.localbroadcastmanager.localbroadcastmanager.aar
-androidx.arch.core.core-runtime.aar
 androidx.lifecycle.lifecycle-livedata.aar
 androidx.documentfile.documentfile.aar
 androidx.legacy.legacy-support-core-utils.aar
